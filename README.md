@@ -1,0 +1,13 @@
+# sobre mim:
+
+
+- 👋 ola,sou @marialeit
+- 👀 eu sou interessada em programação ...
+- 🌱 eu estou aprendendo java script e ingles ...
+- 💞️ eu gosto de estudar ingles e ouvir musicas nos tempos livre  ...
+- 📫 meu e-mail é maria.claraleite.duarte@escola.pr.gov.br ...
+
+<!---
+marialeit/marialeit is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
